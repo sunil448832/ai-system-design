@@ -1,6 +1,5 @@
 ---
 title: "00 — ML / AI System Design Curriculum"
-subtitle: "Target: Google / Meta / Netflix / Nvidia — Senior ML (L5 / E5 / IC4-5)"
 companions:
   - "07-agentic-system-design.md — worked agentic case studies for §3"
   - "08-ml-system-design.md — worked ML case studies for §1.5, §3.3, §3.4"
